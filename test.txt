@@ -1,0 +1,3 @@
+cat;meows;jumps
+dog;barks;wagging its tail 
+mouse;squeaks;eats cheese
